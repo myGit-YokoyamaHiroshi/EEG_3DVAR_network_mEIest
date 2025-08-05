@@ -7,7 +7,7 @@ There are sample scripts of our prpoposed EEG data assimilation method with nois
 
 # References<br>
 Hiroshi Yokoyama, and Keiichi Kitajo,  
-Numerical validation of 3D-VAR data assimilation for estimating network dynamics in multivariate EEGs, bioRxiv preprint, 2025. Accepted in Proc. ICONIP2025 <br>
+Numerical validation of 3D-VAR data assimilation for estimating network dynamics in multivariate EEGs, bioRxiv preprint, 2025. <em> **Accepted in Proc. ICONIP2025** </em> <br>
 doi: https://doi.org/10.1101/2025.05.22.655248
 
 # Cite<br>
