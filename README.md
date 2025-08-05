@@ -14,7 +14,7 @@ doi: https://doi.org/10.1101/2025.05.22.655248
 
 Please cite our repository if you use this code in your own work:
 ```
-@article{Yokoyama2024,
+@article{Yokoyama2025,
 author = {Hiroshi Yokoyama, and Keiichi Kitajo
 },
 doi = {https://doi.org/10.1101/2025.05.22.655248},
