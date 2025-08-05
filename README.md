@@ -1,6 +1,9 @@
 # EEG_3DVAR_network_mEIest
 
 There are sample scripts of our prpoposed EEG data assimilation method with noise adaptive 3DVAR. 
+<br><br>
+<img src="./fig_scheme_EEG_3dvar.png" width=100%>
+
 
 # References<br>
 Hiroshi Yokoyama, and Keiichi Kitajo,  
