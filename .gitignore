@@ -1,6 +1,4 @@
 /save_data/synthetic_eeg/
-
-/save_data/est_results/Nroi10/Ttr040sec_*
 /save_data/est_results/Nroi10/Ttr060sec_*
 
-.Rhistory
+/.Rhistory
