@@ -13,7 +13,7 @@ https://doi.org/10.1007/978-981-95-4100-3_19
 
 Please cite our repository if you use this code in your own work:
 ```
-@InProceedings{10.1007/978-981-95-4100-3_19,
+@InProceedings{YokoyamaKitajo_ICONIP2025,
 author="Yokoyama, Hiroshi
 and Kitajo, Keiichi",
 editor="Taniguchi, Tadahiro
