@@ -6,21 +6,30 @@ There are sample scripts of our prpoposed EEG data assimilation method with nois
 
 
 # References<br>
-Hiroshi Yokoyama, and Keiichi Kitajo,  
-Numerical validation of 3D-VAR data assimilation for estimating network dynamics in multivariate EEGs, bioRxiv preprint, 2025. <em> **Accepted in Proc. ICONIP2025** </em> <br>
-doi: https://doi.org/10.1101/2025.05.22.655248
+Yokoyama, H., Kitajo, K. (2026). Numerical Validation of 3D-VAR Data Assimilation for Estimating Network Dynamics in Multivariate EEGs. In: Taniguchi, T., et al. Neural Information Processing. ICONIP 2025. Communications in Computer and Information Science, vol 2757. Springer, Singapore.</em> <br>
+https://doi.org/10.1007/978-981-95-4100-3_19
 
 # Cite<br>
 
 Please cite our repository if you use this code in your own work:
 ```
-@article{Yokoyama2025,
-author = {Hiroshi Yokoyama, and Keiichi Kitajo
-},
-doi = {https://doi.org/10.1101/2025.05.22.655248},
-journal = {bioRxiv},
-title = {{Numerical validation of 3D-VAR data assimilation for estimating network dynamics in multivariate EEGs}},
-year = {2025}
+@InProceedings{10.1007/978-981-95-4100-3_19,
+author="Yokoyama, Hiroshi
+and Kitajo, Keiichi",
+editor="Taniguchi, Tadahiro
+and Leung, Chi Sing Andrew
+and Kozuno, Tadashi
+and Yoshimoto, Junichiro
+and Mahmud, Mufti
+and Doborjeh, Maryam
+and Doya, Kenji",
+title="Numerical Validation of 3D-VAR Data Assimilation for Estimating Network Dynamics in Multivariate EEGs",
+booktitle="Neural Information Processing",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="258--272",
+isbn="978-981-95-4100-3"
 }
 ```
 ```
